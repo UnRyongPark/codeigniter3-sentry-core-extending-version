@@ -1,5 +1,8 @@
-# English
 ## codeigniter3-sentry-core-extending-version
+#### ※ If you are looking for a Core Replacing version, please [click here]https://github.com/UnRyongPark/codeigniter3-sentry-core-replacing-version)
+#### ※ 만약 Core Replacing 버전을 찾는다면 [링크](https://github.com/UnRyongPark/codeigniter3-sentry-core-replacing-version)를 눌러주세요
+
+# English
 A core extension library for using the sentry in codeigniter3.x
 [Codeigniter](https://codeigniter.com/) 3.x version with Sentry, Core Extending Class 
 
@@ -25,7 +28,6 @@ How To Install
 * * *
 
 # 한국어(korean)
-## codeigniter3-sentry-core-extending-version
 [Codeigniter](https://codeigniter.com/) 3.x 버전과 Sentry를 Core Extending Class입니다.
 
 Core Class Extending과 관련한 내용은 [링크](http://www.ciboard.co.kr/user_guide/kr/general/core_classes.html)를 참고하시기 바랍니다.
